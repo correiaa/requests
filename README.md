@@ -1,15 +1,15 @@
 # Requests
 
-[![Build Status](https://travis-ci.org/hr3lxphr6j/requests.svg?branch=master)](https://travis-ci.org/hr3lxphr6j/requests)
-[![Go Report Card](https://goreportcard.com/badge/github.com/hr3lxphr6j/requests)](https://goreportcard.com/report/github.com/hr3lxphr6j/requests)
-[![codecov](https://codecov.io/gh/hr3lxphr6j/requests/branch/master/graph/badge.svg)](https://codecov.io/gh/hr3lxphr6j/requests)
+[![Build Status](https://travis-ci.org/correiaa/requests.svg?branch=master)](https://travis-ci.org/correiaa/requests)
+[![Go Report Card](https://goreportcard.com/badge/github.com/correiaa/requests)](https://goreportcard.com/report/github.com/correiaa/requests)
+[![codecov](https://codecov.io/gh/correiaa/requests/branch/master/graph/badge.svg)](https://codecov.io/gh/correiaa/requests)
 
 A "Requests" style HTTP client for golang
 
 ## Install
 
 ```shell
-go get -u github.com/hr3lxphr6j/requests
+go get -u github.com/correiaa/requests
 ```
 
 ## Example

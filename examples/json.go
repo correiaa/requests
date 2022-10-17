@@ -5,7 +5,7 @@ package examples
 import (
 	"fmt"
 
-	"github.com/hr3lxphr6j/requests"
+	"github.com/correiaa/requests"
 )
 
 func JSONExample() {

@@ -1,0 +1,9 @@
+ignore:
+  - examples/
+  - .gitignore
+  - .travis.yml
+  - codecov.yml
+  - go.mod
+  - go.sum
+  - LICENSE
+  - Readme.md
